@@ -1,0 +1,120 @@
+["brave sword"]
+name = "brave sword"
+weapon_category = "SWORD"
+rank = "B"
+uses = 30
+might = 10
+hit = 90
+crit = 0
+range = 1
+weight = 12
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["iron blade"]
+name = "iron blade"
+weapon_category = "SWORD"
+rank = "D"
+uses = 35
+might = 10
+hit = 75
+crit = 0
+range = 1
+weight = 12
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["iron sword"]
+name = "iron sword"
+weapon_category = "SWORD"
+rank = "E"
+uses = 46
+might = 6
+hit = 95
+crit = 0
+range = 1
+weight = 5
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["killing edge"]
+name = "killing edge"
+weapon_category = "SWORD"
+rank = "C"
+uses = 20
+might = 10
+hit = 85
+crit = 30
+range = 1
+weight = 7
+character_class_restriction = ["MYRMIDON"]
+
+["lancereaver"]
+name = "lancereaver"
+weapon_category = "SWORD"
+rank = "C"
+uses = 15
+might = 9
+hit = 85
+crit = 5
+range = 1
+weight = 9
+is_weapon_triangle_reversal = true
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["silver blade"]
+name = "silver blade"
+weapon_category = "SWORD"
+rank = "A"
+uses = 15
+might = 15
+hit = 80
+crit = 0
+range = 1
+weight = 12
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["silver sword"]
+name = "silver sword"
+weapon_category = "SWORD"
+rank = "A"
+uses = 20
+might = 13
+hit = 85
+crit = 0
+range = 1
+weight = 8
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["steel blade"]
+name = "steel blade"
+weapon_category = "SWORD"
+rank = "C"
+uses = 25
+might = 13
+hit = 70
+crit = 0
+range = 1
+weight = 14
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["steel sword"]
+name = "steel sword"
+weapon_category = "SWORD"
+rank = "D"
+uses = 30
+might = 9
+hit = 85
+crit = 0
+range = 1
+weight = 10
+character_class_restriction = ["CAVALIER", "MERCENARY", "MYRMIDON"]
+
+["wo dao"]
+name = "wo dao"
+weapon_category = "SWORD"
+rank = "D"
+uses = 25
+might = 9
+hit = 85
+crit = 40
+range = 1
+weight = 5
+character_class_restriction = ["MYRMIDON"]
